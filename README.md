@@ -2,11 +2,11 @@
 
 Проект "Бот Джон 2.1", написанный на языке Python.
 
-![intro (photo)](https://github.com/nva2810/Bot_John/assets/68200221/61a7f8c5-0a5e-47e5-aed1-02830f9d0f36)
+![intro (photo)](https://github.com/nva2810/Bot_John/assets/68200221/c8b83f07-0f7e-421e-9370-2d7c44c03fc0)
 
 Бот способен угадать дату рождения, загаданное пользователем число, вывести числа Фибоначчи или посчитать до любого числа.
 
-![test](https://github.com/nva2810/Bot_John/assets/68200221/81d2e349-69f6-4ff1-b15c-8028113efa83)
+![test](https://github.com/nva2810/Bot_John/assets/68200221/33066f41-d49d-47ab-8ef0-7875505069ff)
 
 * Дата рождения бота: 13/07/2020
 * Версия 1.0.1 : 17/07/2020
